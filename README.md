@@ -29,3 +29,5 @@ I build applied ML systems end to end: data preparation, training pipelines, eva
 ## Looking For
 
 Open to **machine learning**, **computer vision**, **research-oriented**, and **software engineering** opportunities.
+
+<!-- profile-readme-refresh -->
